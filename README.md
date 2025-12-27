@@ -11,3 +11,6 @@ pip install streamlit python-docx
 
 streamlit run xsx.py
 ```
+
+**在线使用**
+- <https://hhuxsx.streamlit.app>
