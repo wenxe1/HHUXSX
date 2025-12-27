@@ -1,0 +1,15 @@
+[theme]
+# 主色调 用于交互元素
+primaryColor="#6495ED" 
+
+# 主背景色
+backgroundColor="#F0F2F6"
+
+# 侧边栏和大多数组件的背景色
+secondaryBackgroundColor="#FFFFFF"
+
+# 文本颜色
+textColor="#31333F"
+
+# 字体
+font="sans serif"
