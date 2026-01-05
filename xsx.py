@@ -12,7 +12,7 @@ import streamlit as st
 st.set_page_config(
     page_title="HHU习思想", 
     page_icon="📖",  # 使用一个书本图标
-    layout="centered" # 使用居中布局，更适合阅读
+    layout="centered"  # 使用居中布局，更适合阅读
 )
 # 注入自定义CSS
 st.markdown("""
